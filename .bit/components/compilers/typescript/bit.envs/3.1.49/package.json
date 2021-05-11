@@ -15,7 +15,7 @@
     "recursive-readdir": "^2.2.2",
     "typescript": "^3.9.6",
     "vinyl": "^2.2.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/recursive-readdir": "^2.2.0",
